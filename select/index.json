@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Transfer Girl",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T18:29:27.353960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(LIKE A)TRANSFER GIRL",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/01_(LIKE_A)TRANSFER_GIRL_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Transfer Girl",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/02_Transfer_Girl_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Transfer Girl",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_Transfer_Girl_BaseBallBear.txt"
+    }
+  ]
+}
